@@ -1,3 +1,3 @@
 def call () {
-  echo "Testing Done"
+  sh 'echo Testing Don'
 }
